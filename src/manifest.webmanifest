@@ -1,6 +1,6 @@
 {
     "name": "PokeCards",
-    "short_name":"Best app to view pokemon cards.",
+    "short_name":"Best app to view pokemon cards.test",
     "start_url":"/index.html",
     "display": "standalone",
     "background_color" : "#ecf0f3",
